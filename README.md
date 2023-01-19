@@ -1,1 +1,1 @@
-# Time-Optimal-Trajectory-Generator-
+# Time-Optimal-Trajectory-Generator-Quadcopter
